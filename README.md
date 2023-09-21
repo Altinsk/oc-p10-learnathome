@@ -1,3 +1,3 @@
 # projet P10 - Parcours Front-end
 
-- Démarrer le projet
+- [Kanban] (https://github.com/users/Altinsk/projects/1)
