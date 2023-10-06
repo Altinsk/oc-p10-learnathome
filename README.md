@@ -2,7 +2,7 @@
 - [Maquette](https://www.figma.com/file/ftu6z7iE3JfoD6Gtg8mA9z/Learn%40Home?type=design&node-id=19-119&mode=design&t=DkS1rpU5yIMqaMYd-0)
 - [Kanban](https://github.com/users/Altinsk/projects/1)
 
-
+- RABIE_Omar_2_user_stories_092023
 |As a [type of user]|I want to [perform some task]|So that I can [acheive a result]|Gievn:...|When:...|Then:...| 
 |:---|:---|:---|:---|:---|:---|
 |Student or Tutor| I want to connect to my account | 1- On the connection page a form will be present where I can enter my email and password, click connect to go to my account  <br /> | User is on the connection page | When user enter his/her connection details  | User will login to his/her account |
